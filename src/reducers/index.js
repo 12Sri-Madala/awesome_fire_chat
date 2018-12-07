@@ -1,5 +1,5 @@
 import { combineReducers } from 'redux';
-import { reducer as form } from 'react-redux';
+import { reducer as form } from 'redux-form';
 import chat from './chat_reducer';
 
 // import { reducer as formReducer } from 'redux-form';
